@@ -1,0 +1,6 @@
+framework module Pods_vipajiTests {
+  umbrella header "Pods-vipajiTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
